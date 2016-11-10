@@ -1,4 +1,4 @@
-(defproject org.clojars.yonatane/sayid "0.0.10-dev-1.9patch"
+(defproject org.clojars.yonatane/sayid "0.0.10-SNAPSHOT"
   :description "Sayid is a library for debugging and profiling clojure code."
   :signing {:gpg-key "<bill@billpiel.com>"}
   :url "http://bpiel.github.io/sayid/"
